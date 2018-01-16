@@ -12,6 +12,6 @@ First thing is time because if java scripts or html file not work then i have to
 2.	Benefits
 The benefits of creating this website is it will improve my knowledge of html, css and java script which will help me in future. I will be aware of errors and know how to fix them.
 ## What is nature of interactivity and comlexity of website?
-1.	Nature of interactivity
-2.	Complexity of website
+###1.	Nature of interactivity
+###2.	Complexity of website
 The complexity of website is easy for audience because the website layout is simple and easy to navigate around so people will have less distraction while visiting the website.
